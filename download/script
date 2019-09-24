@@ -1,0 +1,4 @@
+#!/bin/sh
+
+javac MentorMatch.java
+java MentorMatch
